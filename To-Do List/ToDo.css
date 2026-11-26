@@ -1,0 +1,44 @@
+body {
+  background-color: #294057;
+}
+
+main {
+    background-color: #ff905a;
+    height: 35vw;
+    width: 30vw;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 70px;
+    font-size: 25px;
+    padding-left: 100px;
+   }
+
+.blocks {
+  padding-bottom: 40px;
+}
+
+
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #e9d5ba;
+}
+
+a:visited {
+  color: #e9d5ba42;
+}
+
+a:hover {
+  color: #ae8f67;
+}
+
+a:focus {
+  color: #d0a267;
+}
+
+a:active {
+  color: #d9943b;
+}
